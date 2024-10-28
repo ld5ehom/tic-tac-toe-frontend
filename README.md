@@ -1,4 +1,5 @@
 # tic-tac-toe - UCLA CS35L 
+https://ld5ehom.github.io/tic-tac-toe-frontend/
 - Utilized: React, Javascript 
 
 1. Homebrew install (terminal): 
