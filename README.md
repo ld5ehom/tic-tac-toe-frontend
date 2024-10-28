@@ -55,9 +55,9 @@ onClick Prop: This function is triggered when a square is clicked. The specific 
 renderSquare(i): This helper function renders a single square at index i. It passes the square's value and the onClick function to the Square component.
 
 
-- Square component: Renders a <button>.
+- Square component: Renders a <button>
 onClick Prop: This is the function passed from the Board component. It gets triggered when the square is clicked. This function typically updates the state of the game by marking the square with either an 'X' or 'O'.
-value Prop: This represents the current value of the square. It can be 'X', 'O', or null (if the square is empty). This value is displayed inside the <button>.
+value Prop: This represents the current value of the square. It can be 'X', 'O', or null (if the square is empty). This value is displayed inside the <button>
 
 
 --- React Start ---
